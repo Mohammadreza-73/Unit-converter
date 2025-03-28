@@ -1,0 +1,13 @@
+{
+    "name": "m.rahimi/unit-converter",
+    "description": "Unit converter",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "UnitConverter\\": "src/"
+        },
+	"files": ["src/support/functions.php"]
+    },
+    "require": {}
+}
